@@ -11,8 +11,8 @@ dependencies:
   - ca-certificates=2020.11.8=ha878542_0
   - cairo=1.14.12=h8948797_3
   - certifi=2020.11.8=py38h578d9bd_0
-  - cudatoolkit=10.2.89=hfd86e86_1
-  - cudatoolkit-dev=11.4.0=py38h497a2fe_1
+#   - cudatoolkit=10.2.89=hfd86e86_1
+#   - cudatoolkit-dev=11.4.0=py38h497a2fe_1
   - cycler=0.10.0=py38_0
   - dbus=1.13.18=hb2f20db_0
   - expat=2.2.10=he6710b0_2
@@ -74,7 +74,7 @@ dependencies:
   - python=3.8.3=cpython_he5300dc_0
   - python-dateutil=2.8.1=py_0
   - python_abi=3.8=1_cp38
-  - pytorch=1.7.0=py3.8_cuda10.2.89_cudnn7.6.5_0
+#   - pytorch=1.7.0=py3.8_cuda10.2.89_cudnn7.6.5_0
   - pytorch3d=0.3.0=py38_cu102_pyt170
   - qt=5.9.7=h5867ecd_1
   - readline=8.0=h7b6447c_0
@@ -84,8 +84,8 @@ dependencies:
   - six=1.15.0=py38h06a4308_0
   - sqlite=3.33.0=h62c20be_0
   - tk=8.6.10=hbc83047_0
-  - torchaudio=0.7.0=py38
-  - torchvision=0.8.1=py38_cu102
+#   - torchaudio=0.7.0=py38
+#   - torchvision=0.8.1=py38_cu102
   - tornado=6.1=py38h27cfd23_0
   - typing_extensions=3.7.4.3=py_0
   - wheel=0.36.0=pyhd3eb1b0_0
